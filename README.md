@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The website is Hosted on vercel and can be viewed and accessed by visiting following link
+
+https://passport-seva-clone.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
